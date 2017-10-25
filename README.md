@@ -12,8 +12,13 @@ I have succeeded with version v1.3.3
 call the Owl initializer function and your carousel
 Add to command only condition : //mouse hover Stop
 
+
+
+
+<pre><code>
 $(".owl-carousel").owlCarousel({
 
   stopOnHover:true, //mouse hover Stop
   
 })
+</code></pre>
